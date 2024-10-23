@@ -1,9 +1,9 @@
 body {
-    color: black;
+    color: whitesmoke;
     background-color: orange;
 }
 section {
-    background: whitesmoke;
+    background: black;
     padding-top: 80px;
     padding-bottom: 80px;
 }
