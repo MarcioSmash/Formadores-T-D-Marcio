@@ -2,7 +2,7 @@ body {
     color: rgb(0, 0, 0);
     background-color: rgb(16, 151, 45);
 }
-section {
+.chamada {
     background: rgb(250, 216, 21);
     padding-top: 80px;
     padding-bottom: 80px;
@@ -20,7 +20,7 @@ img {
     overflow-x: auto;
     gap: 10px;
 }
-section {
+.categoria {
     padding-left: 20px;
     padding-right: 20px;
 
